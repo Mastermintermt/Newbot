@@ -26,7 +26,7 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
 
   ### Simple Method
   
-<a href="https://apex-alien-alfa.vercel.app"><img title="AGS MODS" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://NewBot.vercel.app"><img title="AGS MODS" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
