@@ -26,9 +26,7 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ameer-kallumthodi/Pikachu-QR)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu)
+<a href="https://apex-alien-alfa.vercel.app"><img title="AGS MODS" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
