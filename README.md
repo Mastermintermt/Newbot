@@ -48,8 +48,6 @@ bash <(curl -L https://t.ly/tHxh)
   click to fork the git into your account
  Click [FORK](https://github.com/Mastermintermt/Newbot/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu copy this url and change ameer-kallumthodi with your github username and click go<br>
-
 ----
 
 <h3 align="center">Contact Me:</h3>
