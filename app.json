@@ -3,9 +3,9 @@
     "description": "Pikachu is the Modified Version of WhatsAsena, Made By @Ameer Suhail with Baileys.",
     "logo": "https://i.imgur.com/SoIxkUE.jpeg",
     "keywords": ["whatsapp", "userbot", "pikachu", "WhatsAsena", "pikachu", "bot", "ai"],
-    "repository": "https://github.com/ameer-kallumthodi/pikachu",
-    "website":   "https://github.com/ameer-kallumthodi/pikachu",
-    "success_url": "https://github.com/ameer-kallumthodi/pikachu",
+    "repository": "https://github.com/Mastermintermt/Newbot",
+    "website":   "https://github.com/Mastermintermt/Newbot",
+    "success_url": "https://github.com/Mastermintermt/Newbot",
     "stack": "container",
     "env": {
         "PIKACHU_SESSION": {
