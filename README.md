@@ -28,6 +28,8 @@ Project created by <a href="https://github.com/ameer-kallumthodi">Ameer-Kallumth
   
  <a href="https://apex-alien-alfa.vercel.app"><img title="AGS MODS" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
+
+  <a href="https://dashboard.heroku.com/new?template=https://github.com/Mastermintermt/Newbot"><img title="AGS MODS" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
      </div>
 <br>
 If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Termux
